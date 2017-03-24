@@ -1,2 +1,4 @@
 # group7Project
-App delivers the interactive experience for the quiz for getting idea on G1 driving test Scenario: Client server based application and android app There are 3 functionalities in the application: Start, Help, Quit You will be asked 10 questions based on G1 test You get 1 point for each correct answer At the end, you get the final score out of 10 You can play again or can quit the game once answered all the questions
+For running the application you need to first of all; run the C server in Linux Environment
+Secondly you can run the client in Linux(C Client) as well as Android App(Manually change the IP address and Port number in the "QuizQuestion.java" File in adroid studio
+Now you have your client and server running, enjoy the G1 driving quiz
