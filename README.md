@@ -1,0 +1,2 @@
+# group7Project
+App delivers the interactive experience for the quiz for getting idea on G1 driving test Scenario: Client server based application and android app There are 3 functionalities in the application: Start, Help, Quit You will be asked 10 questions based on G1 test You get 1 point for each correct answer At the end, you get the final score out of 10 You can play again or can quit the game once answered all the questions
